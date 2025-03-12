@@ -1,9 +1,6 @@
 # backup files
 .bkp/
 
-.devl/
-.hidden/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
